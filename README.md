@@ -19,7 +19,7 @@ Term | Definition
 ### Reproducibility
 
 - Ensure that you have installed [Jupyter](http://jupyter.org/), [Python](https://www.python.org/), and the [pandas data-analysis library](https://pandas.pydata.org/).
-- Download registered voters from [Travis County](https://tax-office.traviscountytx.gov/voter-data)) and request from [Williamson](http://www.wilco.org/Departments/Elections/Staff) and [Hays](http://www.co.hays.tx.us/elections.aspx) counties. Note: results may differ from this repo if lists of registered voters have changed.
+- Download registered voters from [Travis County](https://tax-office.traviscountytx.gov/voter-data) and request from [Williamson](http://www.wilco.org/Departments/Elections/Staff) and [Hays](http://www.co.hays.tx.us/elections.aspx) counties. Note: results may differ from this repo if lists of registered voters have changed.
 
 ### Feedback? Questions?
 
